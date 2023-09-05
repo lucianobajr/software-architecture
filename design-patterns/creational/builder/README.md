@@ -29,35 +29,21 @@ Em resumo, com o padrão `Builder` construímos objetos complexos passo a passo.
 
 ---
 
-<div style="display: flex; flex-direction: row;">
-
-<aside>
 💡 Facilita a instância de objetos que tem muitos atributos, sendo alguns deles opcionais
 
 *Joshua Bloch*
 
 </aside>
 
-<div>
+
 ❓ GOF
 
 </aside>
 
-<div>
 
-← **Isso nos leva a problemática**
+**Isso nos leva a problemática**
 
 *inicialização passo a passo trabalhosa de muitos campos e objetos agrupados.*
-
-</div>
-
-</div>
-
-</div>
-
-
-
-<aside>
 
 
 ## Exemplo
