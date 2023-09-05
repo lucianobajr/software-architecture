@@ -23,7 +23,13 @@ Usando o padrão `Builder`, podemos definir cada passo da construção em uma cl
 
 </aside>
 
+---
+
 Em resumo, com o padrão `Builder` construímos objetos complexos passo a passo. Podemos produzir diferentes tipos e representações de um objeto usando o mesmo código de construção.
+
+---
+
+<div style="display: flex; flex-direction: row;">
 
 <aside>
 💡 Facilita a instância de objetos que tem muitos atributos, sendo alguns deles opcionais
@@ -32,14 +38,27 @@ Em resumo, com o padrão `Builder` construímos objetos complexos passo a passo.
 
 </aside>
 
-<aside>
+<div>
 ❓ GOF
 
 </aside>
 
+<div>
+
 ← **Isso nos leva a problemática**
 
 *inicialização passo a passo trabalhosa de muitos campos e objetos agrupados.*
+
+</div>
+
+</div>
+
+</div>
+
+
+
+<aside>
+
 
 ## Exemplo
 
