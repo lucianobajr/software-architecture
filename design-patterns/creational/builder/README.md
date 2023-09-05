@@ -14,6 +14,9 @@
 
 ## Definição
 
+![Untitled-2023-09-05-1059](https://github.com/lucianobajr/software-architecture/assets/45442173/d5b725c0-c1ee-475d-8186-0384ae7c92ef)
+
+
 <aside>
 👉 O padrão de design `Builder` é um padrão criacional que permite a criação de objetos complexos passo a passo. Ele separa a construção de um objeto complexo de sua representação, permitindo que o mesmo processo de construção possa criar diferentes representações.
 
